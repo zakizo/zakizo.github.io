@@ -16,6 +16,7 @@ body         {
 .caption {
 	float: bottom;
 	font-size: small;
+	max-width: 250px;
 }
 h1 {
 	color: darkred;
@@ -43,6 +44,8 @@ h2 {
 	background-color: black;
 	color: gainsboro;
 	padding: 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	font-family: serif;
 	font-variant: small-caps;
 	text-align: center;
@@ -50,6 +53,7 @@ h2 {
 .subtitle {
 	font-size: large;
 	margin-top: 0px;
+	margin-bottom: 5px;
 }
 .headertitle {	
 	font-size: x-large;
